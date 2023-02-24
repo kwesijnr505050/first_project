@@ -7,7 +7,7 @@ def lambdP():
 lambdP()
 
 # creating a funtion containing loop within it having an array
-
+# saved on github
 def array():
     names = ["james","kofi","madam","love"]
     for x in names:
