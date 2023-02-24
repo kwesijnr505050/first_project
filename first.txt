@@ -1,1 +1,2 @@
-welcome to the world of github. Online cloud base network for saving files and accesing it everywhere and at any time
+welcome to the world of github. Online cloud base network for saving files and accesing it everywhere and at any time.
+Is good to have git install on your laptop or desktop to help you save your work online.
